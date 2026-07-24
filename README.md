@@ -72,4 +72,4 @@ devshop/
 ## Author
  
 Developed as part of the Git & GitHub DevOps Mini Project.
-git repository link :git@github.com:Saibharath1253/devshop.git
+git repository link : git@github.com:Saibharath1253/devshop.git
